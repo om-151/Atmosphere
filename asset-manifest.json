@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/om-151/Atmosphere.git/static/css/main.e3df0f77.css",
+    "main.js": "/om-151/Atmosphere.git/static/js/main.cf772dbf.js",
+    "static/js/453.ed3810f9.chunk.js": "/om-151/Atmosphere.git/static/js/453.ed3810f9.chunk.js",
+    "static/media/Wallpaper.jpg": "/om-151/Atmosphere.git/static/media/Wallpaper.efbafe38b4f350ef09d3.jpg",
+    "static/media/Loading.gif": "/om-151/Atmosphere.git/static/media/Loading.72e5fa5c981ec0b7b37b.gif",
+    "static/media/Logo.png": "/om-151/Atmosphere.git/static/media/Logo.f688e7d1e35144d8e45c.png",
+    "index.html": "/om-151/Atmosphere.git/index.html",
+    "main.e3df0f77.css.map": "/om-151/Atmosphere.git/static/css/main.e3df0f77.css.map",
+    "main.cf772dbf.js.map": "/om-151/Atmosphere.git/static/js/main.cf772dbf.js.map",
+    "453.ed3810f9.chunk.js.map": "/om-151/Atmosphere.git/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3df0f77.css",
+    "static/js/main.cf772dbf.js"
+  ]
+}
